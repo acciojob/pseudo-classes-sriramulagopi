@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(135,206,235);
+}
+li:nth-child(1){
+	width:50%;
+	background-color:white;
+	padding:10px;
+	font-size: 22px;
+	
+}
+li:nth-child(5){
+	width:50%;
+	background-color:white;
+	padding:10px;
+	font-size: 22px;
+	
+}
+li:nth-child(2){
+	width:50%;
+	background-color:grey;
+	padding:10px;
+	font-size: 22px;
+	
+}
+li:nth-child(3){
+	width:50%;
+	background-color:pink;
+	padding:10px;
+	font-size: 22px;
+	
+}
+li:nth-child(4){
+	width:50%;
+	background-color:grey;
+	padding:10px;
+	font-size: 22px;
+	
+}
+#g2{
+	color:red;
+}
+#g1{
+	background-color:black;
+	color:white;
+}
